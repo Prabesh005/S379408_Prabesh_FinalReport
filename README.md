@@ -3,6 +3,8 @@ This project is all about crafting a responsive profile card component that show
 
 
 Hypotheses
+
+
 Design Impact: By using a circular profile image and a gradient header, we expect to boost user engagement by 20% compared to traditional flat rectangular designs, as shown by click-through rates.
 
 Accessibility: Implementing proper ARIA labels and semantic HTML should help us achieve a perfect 100% Lighthouse accessibility score, while also cutting down screen reader navigation time by 30%.
