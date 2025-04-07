@@ -1,8 +1,11 @@
 # S379408_Prabesh_FinalReport
+Project Brief: 
+
+
 This project is all about crafting a responsive profile card component that showcases professional details like a profile image, name, job title, skills, and social media links. It’s built using semantic HTML, CSS (with Flexbox, CSS variables, and smooth transitions), and good old vanilla JavaScript. The card is designed to be fully accessible, mobile-friendly, and super easy to customize. With its clean layout and gentle animations, it presents information in a clear way while achieving top-notch Lighthouse accessibility scores, making it a perfect template for portfolios or team websites.
 
 
-Hypotheses
+Hypotheses:
 
 
 Design Impact: By using a circular profile image and a gradient header, we expect to boost user engagement by 20% compared to traditional flat rectangular designs, as shown by click-through rates.
